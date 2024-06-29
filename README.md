@@ -13,7 +13,7 @@ In this data science and machine learning project, we focus on classifying sport
 - **UI:** Contains the website's front-end code
 - **server:** Python Flask server code
 - **model:** Python notebook for model building
-- **google_image_scrapping:** Code for scraping images from Google
+- **WebScraping:** Code for scraping images from Google
 - **images_dataset:** Dataset used for model training
 
 ## Technologies Used
